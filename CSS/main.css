@@ -1,0 +1,18 @@
+body{
+    margin: 25px;
+    background-color: deepskyblue;
+}
+nav{
+    display: flex;
+    align-items: center;
+}
+nav img{
+    height: 50px;
+    width: auto;
+}
+div{
+    background-color: white;
+    padding: 15px;
+}
+
+
